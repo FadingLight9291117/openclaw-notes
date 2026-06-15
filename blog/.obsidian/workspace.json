@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "459ad3a32aad4276",
+    "id": "c5399a9acbb77689",
     "type": "split",
     "children": [
       {
-        "id": "5f97bf8400cae9a8",
+        "id": "983bb3f03ba0267b",
         "type": "tabs",
         "children": [
           {
-            "id": "d0cf7351ba09fde6",
+            "id": "d73d0bfd1d682067",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/mcp-101.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "mcp-101"
+              "title": "新标签页"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b6108a14266af7ba",
+    "id": "65df11f83c8b6769",
     "type": "split",
     "children": [
       {
-        "id": "58c3efc6201f5a69",
+        "id": "78cc3f055f0cbebc",
         "type": "tabs",
         "children": [
           {
-            "id": "e748b7d3d15f7bf9",
+            "id": "77a689742a641c6d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "5aaea1cf2403cdc9",
+            "id": "bfd0dd36c851aa00",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "885aa17fd321b938",
+            "id": "368ed5ad7ec0d3ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "16ed2280b2c0f5fb",
+    "id": "8b36ffcad1340b80",
     "type": "split",
     "children": [
       {
-        "id": "27e5e389f8fb98dc",
+        "id": "cb25124ebc9d68ef",
         "type": "tabs",
         "children": [
           {
-            "id": "5e702d324eac08f1",
+            "id": "d2956a3ad0a6ce8e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/function-call-101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "function-call-101 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "607e0346c7c7ac6b",
+            "id": "8dcc2f42bc2674ca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/function-call-101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "function-call-101 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "10e2aad3cce4362c",
+            "id": "91e1edfbd442848d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,57 +131,51 @@
             }
           },
           {
-            "id": "5e263de838d80777",
+            "id": "33675859567823b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4d537f742f8042ed",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/mcp-101.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "mcp-101 的大纲"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "d0cf7351ba09fde6",
-  "lastOpenFiles": [
-    "rag-overview.md",
-    "mcp-overview.md",
-    "mcp-client-internals.md",
-    "lsp-tools.md",
-    "blog/mcp-101.md",
-    "plugin-tools.md",
-    "blog/function-call-101.md",
-    "README.md",
-    "blog/README.md",
-    "llm-autoregressive-kvcache.md",
-    "function-call-flow.md",
-    "blog",
-    "skills-management-design.md",
-    "skills-cli-and-examples.md",
-    "skill-invocation-mechanism.md",
-    "architecture-overview.md",
-    "agent-loop.md",
-    "README.md.tmp.7973.29117344d8e6"
-  ]
+  "active": "d73d0bfd1d682067",
+  "lastOpenFiles": []
 }
