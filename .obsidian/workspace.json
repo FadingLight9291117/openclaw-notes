@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/mcp-101.md",
+                "file": "opencode-plan-mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mcp-101"
+              "title": "opencode-plan-mode"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/mcp-101.md",
+                "file": "opencode-plan-mode.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "mcp-101 的大纲"
+              "title": "opencode-plan-mode 的大纲"
             }
           }
         ],
@@ -171,23 +171,27 @@
   },
   "active": "d0cf7351ba09fde6",
   "lastOpenFiles": [
+    "agent-loop-notes.md",
+    "opencode-plan-mode.md",
+    "agent-loop.md",
+    "blog/rag-101.md",
+    "blog/skills-101.md",
+    "blog/README.md",
+    "blog/mcp-101.md",
+    "lsp-tools.md",
+    "blog/function-call-101.md",
+    "skills-cli-and-examples.md",
+    "mcp-client-internals.md",
     "rag-overview.md",
     "mcp-overview.md",
-    "mcp-client-internals.md",
-    "lsp-tools.md",
-    "blog/mcp-101.md",
     "plugin-tools.md",
-    "blog/function-call-101.md",
     "README.md",
-    "blog/README.md",
     "llm-autoregressive-kvcache.md",
     "function-call-flow.md",
     "blog",
     "skills-management-design.md",
-    "skills-cli-and-examples.md",
     "skill-invocation-mechanism.md",
     "architecture-overview.md",
-    "agent-loop.md",
     "README.md.tmp.7973.29117344d8e6"
   ]
 }
